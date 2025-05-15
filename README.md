@@ -29,7 +29,7 @@ A full-stack blogging platform built with modern web technologies. This project 
 
 1. Clone the repository
 ```bash
-git clone [your-repo-url]
+git clone https://github.com/saqlainkazi690/Blogosphere
 cd blogosphere
 ```
 
@@ -70,11 +70,6 @@ blogosphere/
 └── README.md         # Project documentation
 ```
 
-## Contact
-
-[Your Name]
-- GitHub: [Your GitHub Profile]
-- LinkedIn: [Your LinkedIn Profile]
 
 ## License
 
